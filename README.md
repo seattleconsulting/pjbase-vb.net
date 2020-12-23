@@ -21,6 +21,6 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 #1.接続追加
 #2.テーブル作成
 #3.SqlConnectionの変更
-以下のURLにご確認お願い致します。
+以下のURLにご確認お願い致します
 https://github.com/seattleconsulting/pjbase-vb.net/pull/3#issue-544603034
 
