@@ -98,7 +98,7 @@ Partial Class sampleform
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(27, 18)
         Me.Label5.TabIndex = 4
-        Me.Label5.Text = "県"
+        Me.Label5.Text = "町"
         '
         'Label6
         '
